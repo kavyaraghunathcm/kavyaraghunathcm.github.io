@@ -1,2 +1,2 @@
-# -kavyaraghunathcm.github.io
+# kavyaraghunathcm.github.io
 Portfolio
