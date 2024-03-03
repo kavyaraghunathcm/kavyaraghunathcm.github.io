@@ -1,2 +1,1 @@
-# kavyaraghunathcm.github.io
-Portfolio
+A personal portfolio website built from scratch using HTML, CSS, and JavaScript to showcase my skills, projects, and achievements as a software engineer
